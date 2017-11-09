@@ -15,17 +15,6 @@
     </properties>
 
     <dependencies>
-        <!-- beginning of account -->
-        <dependency>
-            <groupId>com.dianping</groupId>
-            <artifactId>account-monitor-api</artifactId>
-            <version>0.2.1</version>
-        </dependency>
-        <dependency>
-            <groupId>com.dianping</groupId>
-            <artifactId>account-api</artifactId>
-            <version>3.4.1</version>
-        </dependency>
         <!-- beginning of spring framework -->
         <dependency>
             <groupId>org.springframework</groupId>
